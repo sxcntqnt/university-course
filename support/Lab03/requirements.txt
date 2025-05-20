@@ -3,5 +3,5 @@ pycryptodome
 jsonpickle
 requests
 Crypto
-setuptools~=49.1.0
+setuptools~=80.7.1
 python-dotenv
